@@ -24,7 +24,7 @@ Step3:- After Login you will be redirected to dashboard. Where you will se what 
 Step4:- Go to user management or role management where you can manage users and roles (create, update, delete). 
 
 
-**Note:-** _if you have WRITE permission then only you will see Add New Role and Add User button on ROLE MANAGEMENT and USER MANAGEMENT._
+**Note:-** _if you have WRITE permission then only you will see Add New Role and Add User button on role management and user management._
 
 _if you have UPDATE permission then only you will see Update button in table on role management and user management._
 
