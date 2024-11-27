@@ -29,7 +29,7 @@ const Signup = () => {
       username: values.username,
       email: values.email,
       password: values.password,
-      role: "USER",
+      role: "ADMIN",
       status: "ACTIVE",
     };
     try {
