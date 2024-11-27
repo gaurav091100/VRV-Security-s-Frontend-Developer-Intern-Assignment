@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "username": "Gaurav",
+      "email": "gaurav785280@gmail.com",
+      "role": "SUPERADMIN",
+      "status": "ACTIVE",
+      "id": "4f57"
+    },
+    {
+      "username": "Ajay",
+      "email": "ajay@gmail.com",
+      "role": "USER",
+      "status": "ACTIVE",
+      "id": "1895"
+    },
+    {
+      "username": "lipika",
+      "email": "lipika@gmail.com",
+      "role": "USER",
+      "status": "ACTIVE",
+      "id": "268a"
+    }
+  ],
+  "roles": [
+    {
+      "name": "USER",
+      "permissions": [
+        "READ"
+      ],
+      "id": "6619"
+    },
+    {
+      "name": "SUPERADMIN",
+      "permissions": [
+        "READ"
+      ],
+      "id": "b387"
+    }
+  ]
+}
