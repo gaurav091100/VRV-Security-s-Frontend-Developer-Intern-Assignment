@@ -23,8 +23,10 @@ const UserForm = ({ user, onSave, onCancel, roles }) => {
     initialValues: {
       username: user?.username || "",
       email: user?.email || "",
+      password: "User@123",
       role: user?.role || "",
       status: user?.status || "ACTIVE",
+
     },
     validationSchema,
     onSubmit: (values) => {
@@ -38,6 +40,7 @@ const UserForm = ({ user, onSave, onCancel, roles }) => {
       formik.setValues({
         username: user.username,
         email: user.email,
+        password: user.password,
         role: user.role,
         status: user.status,
       });

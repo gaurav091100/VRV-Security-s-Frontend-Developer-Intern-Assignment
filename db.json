@@ -8,9 +8,9 @@
       "id": "4f57"
     },
     {
-      "username": "Ajay",
-      "email": "ajay@gmail.com",
-      "role": "USER",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "role": "ADMIN",
       "status": "ACTIVE",
       "id": "1895"
     }
@@ -29,6 +29,16 @@
         "READ"
       ],
       "id": "b387"
+    },
+    {
+      "name": "ADMIN",
+      "permissions": [
+        "READ",
+        "WRITE",
+        "UPDATE",
+        "DELETE"
+      ],
+      "id": "b332"
     }
   ]
 }
