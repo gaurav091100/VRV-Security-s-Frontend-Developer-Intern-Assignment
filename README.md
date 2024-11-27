@@ -13,6 +13,19 @@ Password :- User@123
 
 
 
+#How to use ?
+
+Step 1:- Signup to the platform.
+Step2 :- login to the platform.
+Step3:- After Login you will be redirected to dashboard. Where you will se what is your role and what permissions you have.
+Step4:- Go to user management or role management where you can manage users and roles (create, update, delete). 
+
+_Note:- **if you have write permission then only you will see Add New Role and Add User button.**_
+
+
+
+
+
 
 
 
