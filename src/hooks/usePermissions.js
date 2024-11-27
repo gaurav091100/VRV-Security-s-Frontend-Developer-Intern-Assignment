@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import useAuth from "../context/useAuth";
-
+import api from "../services/api";
 
 const usePermissions = () => {
   const { user } = useAuth();
@@ -9,13 +9,12 @@ const usePermissions = () => {
   useEffect(() => {
     const fetchUserData = async () => {
       if (user?.id) {
-        const rolesResponse = await fetch(
-          `http://localhost:5000/roles?name=${user?.role}`
+        const response = await api.get(
+          `/roles?name=${user?.role}`
         );
-        const rolesData = await rolesResponse.json();
 
-        if (rolesData.length > 0) {
-          setPermissions(rolesData[0].permissions);
+        if (response.data.length > 0) {
+          setPermissions(response.data[0].permissions);
         }
       }
     };
