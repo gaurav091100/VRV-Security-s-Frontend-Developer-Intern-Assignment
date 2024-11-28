@@ -52,34 +52,38 @@ json-server
 # Some Snippets of the Project
 
 # Dashboard
-![home](https://user-images.githubusercontent.com/107936455/221484768-f6980371-1a42-4a9a-8f4c-55cdcb09d9eb.png)
+![Screenshot 2024-11-28 163203](https://github.com/user-attachments/assets/b65e8170-2b8f-4d1f-b800-50d03b9a30de)
+
 
 # User Management Page
-![productpage](https://user-images.githubusercontent.com/107936455/221486896-7d726e90-6f7d-4b87-bfdf-c14ab60ddb7a.png)
+![Screenshot 2024-11-28 163313](https://github.com/user-attachments/assets/de732b89-91e7-42b0-9650-156ba3183159)
 
 
 # Add User Modal
-![Cartpage](https://user-images.githubusercontent.com/107936455/221485073-a43f8109-65c2-4b2a-891c-8f376997c1a6.png)
+![Screenshot 2024-11-28 163408](https://github.com/user-attachments/assets/ec169664-7862-44cb-9c7d-32ae6e998d77)
+
 
 # Edit User Modal
-![Myorders](https://user-images.githubusercontent.com/107936455/221485151-3e2a38ef-9b5e-4940-8584-f32f2e6fe980.png)
+![Screenshot 2024-11-28 163512](https://github.com/user-attachments/assets/7b415121-c584-4495-b7f5-eb1e39176f17)
+
 
 # Role Management Page 
-![Register](https://user-images.githubusercontent.com/107936455/221486144-8eb3c13e-1075-4cbb-ac5e-a90aca8dd6d7.png)
+![Screenshot 2024-11-28 163620](https://github.com/user-attachments/assets/23db0d46-80f4-418f-a45c-beef14bddb77)
+
 
 # Add New Role Modal 
-![Register](https://user-images.githubusercontent.com/107936455/221486144-8eb3c13e-1075-4cbb-ac5e-a90aca8dd6d7.png)
+![Screenshot 2024-11-28 163653](https://github.com/user-attachments/assets/eb7a6735-ca90-4863-8d30-db59c9173387)
+
 
 # Edit Role and Permissions Modal
-![Login](https://user-images.githubusercontent.com/107936455/221484904-47a712fc-e7bb-4938-b11a-38d2af23137d.png)
+![Screenshot 2024-11-28 163759](https://github.com/user-attachments/assets/e2ee34b4-c4da-4372-9aaf-9117e8af977e)
+
 
 # Signup Page
-![Admin](https://user-images.githubusercontent.com/107936455/221484995-fafd3685-da39-449f-9416-8a5eb872957a.png)
+![Screenshot 2024-11-28 163123](https://github.com/user-attachments/assets/98beda3d-1633-4c5b-9721-88a420744a0e)
 
 # Login Page
-![Admin](https://user-images.githubusercontent.com/107936455/221484995-fafd3685-da39-449f-9416-8a5eb872957a.png)
-
-
+![Screenshot 2024-11-28 162945](https://github.com/user-attachments/assets/953e203e-1ece-40a2-b73d-a30a29c82dda)
 
 
 
