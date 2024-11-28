@@ -1,4 +1,24 @@
+Frontend Deployed Link :- https://vrv-security-s-frontend-developer-intern-assignment-two.vercel.app/
 
+
+# Role-Based Access Control (RBAC) UI
+This project is a Role-Based Access Control (RBAC) UI built with React.js and a mock JSON Server. It allows admins to manage users, roles, and permissions, with features for adding, editing, and assigning roles. The UI is responsive and includes bonus features like search, filter, and sorting.
+
+
+#Login Credentials 
+
+ADMIN  :- 
+
+Username:- admin@gmail.com
+
+Password :- User@123
+
+
+Tech stack used in the Project:
+React JS
+JavaScript
+Tailwindcss
+json-server
 
 
 
@@ -24,39 +44,16 @@ _if you have READ permission then you can only Read content on role management a
 
 
 
-
-Frontend Deployed Link :- https://vrv-security-s-frontend-developer-intern-assignment-two.vercel.app/
-
-
-# Role-Based Access Control (RBAC) UI
-This project is a Role-Based Access Control (RBAC) UI built with React.js and a mock JSON Server. It allows admins to manage users, roles, and permissions, with features for adding, editing, and assigning roles. The UI is responsive and includes bonus features like search, filter, and sorting.
-
-
-#Login Credentials 
-
-ADMIN  :- 
-
-Username:- admin@gmail.com
-
-Password :- User@123
-
-
-Tech stack used in the Project:
-React JS
-JavaScript
-Tailwindcss
-json-server
-
-
-
 # Some Snippets of the Project
 
 # Dashboard
 ![Screenshot 2024-11-28 163203](https://github.com/user-attachments/assets/b65e8170-2b8f-4d1f-b800-50d03b9a30de)
+![Screenshot 2024-11-28 164218](https://github.com/user-attachments/assets/98d5f18a-fcf8-473c-aaf4-75bfc9ee33d4)
 
 
 # User Management Page
 ![Screenshot 2024-11-28 163313](https://github.com/user-attachments/assets/de732b89-91e7-42b0-9650-156ba3183159)
+![Screenshot 2024-11-28 164124](https://github.com/user-attachments/assets/451d743b-1cd7-4708-9cce-d3d1a1004de2)
 
 
 # Add User Modal
@@ -69,6 +66,7 @@ json-server
 
 # Role Management Page 
 ![Screenshot 2024-11-28 163620](https://github.com/user-attachments/assets/23db0d46-80f4-418f-a45c-beef14bddb77)
+![Screenshot 2024-11-28 164257](https://github.com/user-attachments/assets/06003f06-a471-4835-a06a-fb3f75452e65)
 
 
 # Add New Role Modal 
